@@ -1,0 +1,13 @@
+Los Datos son:
+el nombre es: oli,
+y el apellido es: ugalde
+__________
+el nombre es: Andreas,
+y el apellido es: grossauer
+__________
+el nombre es: guillermono,
+y el apellido es: ugalde
+__________
+el nombre es: mariana,
+y el apellido es: Lopez
+__________
